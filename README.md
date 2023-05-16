@@ -15,9 +15,11 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 🔸 Curiosity: My curiosity and interest in technology started with my passion for games.<div>
 <div>
 
-# Social 🤵<div>
+## Social 🤵<div>
   https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 <div>
 
-# Languages and Tools#
+## Languages and Tools
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+       
         
