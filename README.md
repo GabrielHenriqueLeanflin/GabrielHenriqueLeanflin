@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi! My name is Gabriel Henrique, i like kind with make code. 😄</h1>
+<h1 align="center"> 👋 Hi! My name is Gabriel Henrique and i'm a Brazilian Developer . 😄</h1>
 
 <!--
 **GabrielHenriqueLeanflin/GabrielHenriqueLeanflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
