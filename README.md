@@ -20,6 +20,7 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 <div>
 
 ## Languages and Tools
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-       
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+                 
         
