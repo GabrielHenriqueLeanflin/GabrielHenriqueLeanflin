@@ -21,6 +21,6 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 
 ## Languages and Tools
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-                 
-        
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
