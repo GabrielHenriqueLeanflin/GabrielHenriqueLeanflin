@@ -22,5 +22,7 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 ## Languages and Tools
 
             
+           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
           
