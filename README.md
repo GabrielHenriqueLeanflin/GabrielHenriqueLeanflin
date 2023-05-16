@@ -22,9 +22,7 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
 )](https://www.linkedin.com/in/gabrielleanflinhenriquemoreira/)
 
 ## Languages and Tools
-
-            
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
+<div style="display: inline_block"><br/>
+<img allign="center" alt="centerhtml" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+" />
           
