@@ -1,16 +1,19 @@
-<h1 align="center"> 👋 Hi! My name is Gabriel Henrique and i'm a Brazilian Developer . 😄</h1>
+<h1 align="center"> 👋 Hi! 😄</h1>
 
-<!--
-**GabrielHenriqueLeanflin/GabrielHenriqueLeanflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Henrique, I'm a Brazilian Developer.
 
-Here are some ideas to get you started:
+About me ❓
+So, I'm a Software Developer, passionate about code, logic and knowledge. The greatest pleasure I've today is to learn something new and pass that knowledge on also I've a very good didactic to achieve that.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Who I am 🧠
+🔹 Name: Gabriel Henrique
+🔸 Age: 23
+🔹 Living in: Paulínia, São Paulo
+🔸 Curiosity: My curiosity and interest in technology started with my passion for games.
+
+Social 🤵
+  https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+  
+Languages and Tools:
+        
