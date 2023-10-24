@@ -10,8 +10,8 @@ So, I'm a Software Developer, passionate about code, logic and knowledge. The gr
   
 ## Who I am 🧠<div>
 🔹 Name: Gabriel Henrique <div>
-🔸 Age: 23 <div>
-🔹 Living in: Paulínia, São Paulo <div>
+🔸 Age: 24 <div>
+🔹 Living in: Campinas, São Paulo <div>
 🔸 Curiosity: My curiosity and interest in technology started with my passion for games.<div>
 <div>
 
